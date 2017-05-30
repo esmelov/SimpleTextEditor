@@ -1,0 +1,5 @@
+d:\pers\documents\visual studio 2017\Projects\text_editor\TextEditor.Core\bin\Debug\TextEditor.Core.dll
+d:\pers\documents\visual studio 2017\Projects\text_editor\TextEditor.Core\bin\Debug\TextEditor.Core.pdb
+d:\pers\documents\visual studio 2017\Projects\text_editor\TextEditor.Core\obj\Debug\TextEditor.Core.csprojResolveAssemblyReference.cache
+d:\pers\documents\visual studio 2017\Projects\text_editor\TextEditor.Core\obj\Debug\TextEditor.Core.dll
+d:\pers\documents\visual studio 2017\Projects\text_editor\TextEditor.Core\obj\Debug\TextEditor.Core.pdb
